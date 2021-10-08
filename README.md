@@ -1,4 +1,7 @@
 # SEB
-> I am developer of Python, Lua, Html5, Css3, JavaScript & Java
-
-> I am Minecraft Builder & Developer!
+```
+⭐ Python Medium Developer
+⭐ Java Beginner 
+⭐ JavaScript Beginner & NodeJS
+⭐ Html & CSS Beginner
+```
