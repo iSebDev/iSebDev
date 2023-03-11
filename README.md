@@ -10,7 +10,6 @@
 
 # SPIGOT PROJECTS
 
-[
 [✨Homes36 Spigot Plugin](https://www.spigotmc.org/resources/plugin.103207/)
 [⚔CombatEffects Spigot Plugin](https://www.spigotmc.org/resources/plugin.105674/)
-]
+
