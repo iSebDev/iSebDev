@@ -1,4 +1,6 @@
 # SEBDEV
+[ar](https://countryflagsapi.com/png/ar) [uy](https://countryflagsapi.com/png/uy)
+
 ```
 ⭐ Python Medium Developer
 ⭐ Java Beginner 
@@ -11,7 +13,6 @@
 ⭐ Student
 ⭐ 16 Years
 ⭐ Developer
-⭐ 🇦🇷-🇺🇾
 ```
 
 [![SebDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSebDev)](https://github.com/iSebDev/iSebDev/blob/main/README.md)
