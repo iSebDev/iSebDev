@@ -1,5 +1,4 @@
-# SEBDEV
-![](https://www.countryflagicons.com/FLAT/24/AR.png)  -  ![](https://www.countryflagicons.com/FLAT/24/UY.png)
+# SEBDEV ![](https://www.countryflagicons.com/FLAT/24/AR.png) ![](https://www.countryflagicons.com/FLAT/24/UY.png)
 
 ```
 ⭐ Python Medium Developer
