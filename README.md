@@ -10,7 +10,7 @@
 # BIOGRAPHY
 ```
 ⭐ Student
-⭐ 16 Years
+⭐ 17 Years old
 ⭐ Developer
 ```
 
