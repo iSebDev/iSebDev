@@ -1,17 +1,18 @@
 # SEBDEV ![](https://www.countryflagicons.com/FLAT/24/AR.png) ![](https://www.countryflagicons.com/FLAT/24/UY.png)
 
 ```
-⭐ Python Medium Developer
-⭐ Java Beginner 
-⭐ JavaScript Beginner & NodeJS
-⭐ Html & CSS Beginner
+⭐ Python Mid
+⭐ Java Junior 
+⭐ JavaScript Junior
+⭐ PHP Beginner
+⭐ Html & CSS Junior
 ```
 
 # BIOGRAPHY
 ```
 ⭐ Student
 ⭐ 17 Years old
-⭐ Developer
+⭐ Fullstack Junior Developer
 ```
 
 [![SebDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSebDev)](https://github.com/iSebDev/iSebDev/blob/main/README.md)
