@@ -16,9 +16,11 @@
 ```
 
 # STATS
-![isebdev's Stats](https://github-readme-stats.vercel.app/api?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
-![isebdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
-![isebdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isebdev&theme=vue-dark&hide_border=true)  
+<center>
+<img src="https://github-readme-stats.vercel.app/api?username=isebdev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="isebdev&#39;s Stats">
+<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="isebdev&#39;s Top Languages">
+<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=isebdev&amp;theme=vue-dark&amp;hide_border=true" alt="isebdev&#39;s Streak"> 
+</center>
 
 # SPIGOT PROJECTS
 
