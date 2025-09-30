@@ -15,8 +15,9 @@
 ⭐ Fullstack Junior Developer
 ```
 
-[![SebDev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSebDev)](https://github.com/iSebDev/iSebDev/blob/main/README.md)
-[![SebDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isebdev&show_icons=true&theme=dark#gh-dark-mode-only)
+![isebdev's Stats](https://github-readme-stats.vercel.app/api?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![isebdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isebdev&theme=vue-dark&hide_border=true)
+![isebdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 # SPIGOT PROJECTS
 
