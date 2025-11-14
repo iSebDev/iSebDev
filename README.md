@@ -1,6 +1,6 @@
 <h1 align="center">
   SEBDEV
-  <img src="[https://media.tenor.com/R1uik9PL17gAAAAM/stormcastle-hotdog-sandwich-dance.gif](https://i.pinimg.com/originals/f8/45/f6/f845f69040bc85fd8a6ce9b9493c99d5.gif)" width="60px">
+  <img src="https://i.pinimg.com/originals/f8/45/f6/f845f69040bc85fd8a6ce9b9493c99d5.gif" width="60px">
 </h1>
 
 <p align="center">
