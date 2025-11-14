@@ -1,29 +1,53 @@
-# SEBDEV ![](https://www.countryflagicons.com/FLAT/24/AR.png) ![](https://www.countryflagicons.com/FLAT/24/UY.png)
+<h1 align="center">👋 SEBDEV</h1>
+<p align="center">
+  <img src="https://www.countryflagicons.com/FLAT/24/AR.png">
+  <img src="https://www.countryflagicons.com/FLAT/24/UY.png">
+</p>
 
-```
-⭐ Python
-⭐ Java (Minecraft Plugins)
-⭐ JavaScript (Node & Vanilla)
-⭐ PHP
-⭐ Html & CSS
-```
+---
 
-# BIOGRAPHY
-```
-⭐ Student
-⭐ 18 Years old
-⭐ Fullstack Junior Developer
-```
+## 🚀 Tech Stack
 
-# STATS
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=isebdev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="isebdev&#39;s Stats">
-<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="isebdev&#39;s Top Languages">
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=isebdev&amp;theme=vue-dark&amp;hide_border=true" alt="isebdev&#39;s Streak"> 
-</center>
+<table align="center">
+  <tr>
+    <td align="center"><b>🐍 Python</b></td>
+    <td align="center"><b>☕ Java (Minecraft Plugins)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 JavaScript (Node & Vanilla)</b></td>
+    <td align="center"><b>🐘 PHP</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 HTML & CSS</b></td>
+    <td align="center"> </td>
+  </tr>
+</table>
 
-# SPIGOT PROJECTS
+---
 
-[✨Homes36 Spigot Plugin](https://www.spigotmc.org/resources/plugin.103207/)  
-[⚔CombatEffects Spigot Plugin](https://www.spigotmc.org/resources/plugin.105674/)
+## 👤 Bio
 
+<table>
+<tr><td>⭐ Estudiante</td></tr>
+<tr><td>⭐ 18 años</td></tr>
+<tr><td>⭐ Fullstack Junior Developer</td></tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isebdev&theme=vue-dark&hide_border=true">
+</p>
+
+---
+
+## 🔧 Spigot Projects
+
+- [✨ Homes36](https://www.spigotmc.org/resources/plugin.103207/)
+- [⚔ CombatEffects](https://www.spigotmc.org/resources/plugin.105674/)
