@@ -11,15 +11,15 @@
 
 <table align="center">
   <tr>
-    <td align="center">⭐ Python</td>
-    <td align="center">⭐ Java (Minecraft Plugins)</td>
+    <td align="left">⭐ Python</td>
+    <td align="left">⭐ Java (Minecraft Plugins)</td>
   </tr>
   <tr>
-    <td align="center">⭐ JavaScript (Node & Vanilla)</td>
-    <td align="center">⭐ PHP</td>
+    <td align="left">⭐ JavaScript (Node & Vanilla)</td>
+    <td align="left">⭐ PHP</td>
   </tr>
   <tr>
-    <td align="center">⭐ HTML & CSS</td>
+    <td align="left">⭐ HTML & CSS</td>
     <td></td>
   </tr>
 </table>
