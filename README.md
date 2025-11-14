@@ -1,5 +1,6 @@
 <h1 align="center">
-  SEBDEV
+  <img src="https://i.pinimg.com/originals/f8/45/f6/f845f69040bc85fd8a6ce9b9493c99d5.gif" width="60px">
+  iSebDev
   <img src="https://i.pinimg.com/originals/f8/45/f6/f845f69040bc85fd8a6ce9b9493c99d5.gif" width="60px">
 </h1>
 
