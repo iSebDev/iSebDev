@@ -14,33 +14,17 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" />
-      ⭐ Python
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25px" />
-      ⭐ Java (Minecraft Plugins)
-    </td>
+    <td>🐍 ⭐ Python</td>
+    <td>☕ ⭐ Java (Minecraft Plugins)</td>
   </tr>
 
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" />
-      ⭐ JavaScript (Node & Vanilla)
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" />
-      ⭐ PHP
-    </td>
+    <td>⚡ ⭐ JavaScript (Node & Vanilla)</td>
+    <td>🐘 ⭐ PHP</td>
   </tr>
 
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25px" />
-      ⭐ HTML & CSS
-    </td>
+    <td>🎨 ⭐ HTML & CSS</td>
     <td></td>
   </tr>
 </table>
