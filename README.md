@@ -48,7 +48,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isebdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="450px" alt="">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isebdev&theme=vue-dark&hide_border=true" width="450px" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isebdev&theme=vue-dark&hide_border=true" width="450px" alt="">
 </p>
 
 ---
