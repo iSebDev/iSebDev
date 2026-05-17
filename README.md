@@ -44,7 +44,7 @@
 ## 📊 Stats
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=Datatype&preferLogin=true">
+    <a href="https://calculadorapombo.vercel.app">
       <img  alt="isebdev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/isebdev?cardType=level&theme=radical&fontFamily=Datatype&preferLogin=true" />
     </a>
 </p>
