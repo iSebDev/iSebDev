@@ -35,7 +35,7 @@
 
 <ul>
   <li>⭐ Student</li>
-  <li>⭐ 18 Years old</li>
+  <li>⭐ 19 Years old</li>
   <li>⭐ Fullstack Junior Developer</li>
 </ul>
 
