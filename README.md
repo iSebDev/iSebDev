@@ -37,6 +37,7 @@
   <li>⭐ Student</li>
   <li>⭐ 19 Years old</li>
   <li>⭐ Fullstack Junior Developer</li>
+  <li>⭐ Administrative on FIng</li>
 </ul>
 
 ---
