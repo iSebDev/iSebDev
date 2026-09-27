@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.countryflags.com/wp-content/uploads/uruguay-flag-png-large.png" width="20px"> <span style="font-size: 20px"><b>Uruguay</b></span>
+  <img src="https://www.countryflags.com/countryflags-file/countryflags/uruguay/flag-png-icon-64.png" width="20px"> <span style="font-size: 20px"><b>Uruguay</b></span>
 </p>
 
 ---
